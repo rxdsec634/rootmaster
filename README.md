@@ -27,7 +27,7 @@ Before using RootMaster, ensure you have the following:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/rootmaster.git
+git clone https://github.com/rxdsec634/rootmaster.git
 cd rootmaster
 
 # Create build directory
